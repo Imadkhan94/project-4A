@@ -1,0 +1,28 @@
+.body{
+    background-color: lightblue;
+}
+.cloude{
+    margin-left:720px;
+    
+}
+.sun{
+    margin-left: 600px;
+}
+.hallicopter{
+    margin-left: 0px;
+}
+.building{
+    display: flex;
+    justify-content: space-around;
+}
+.market{
+    display: flex;
+    justify-content: space-around;
+    background-color: green;
+}
+.car{
+    background-color: gray;
+}
+.road{
+    background-color: black;
+}
